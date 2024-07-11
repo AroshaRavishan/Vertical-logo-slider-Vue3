@@ -2,6 +2,11 @@
 
 This Vue 3 component creates an engaging, responsive carousel to showcase partner logos. It's designed to display multiple columns of vertically scrolling logos, creating a dynamic and visually appealing presentation of trusted partners.
 
+## Preview
+
+![Sample Preview](https://github.com/AroshaRavishan/Vertical-logo-slider-Vue3/blob/main/sample%20preview.png?raw=true)
+
+
 ## Features
 
 - **Responsive Design**: Adapts to different screen sizes, showing up to 4 columns on larger screens and fewer on smaller devices.
